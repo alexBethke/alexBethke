@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexBethke
-- 👀 I’m interested in vitage computers / frontend development / AEM / REST Interfaces
+- 👀 I’m interested in vintage computers / Server Side rendering WebComponents / AEM / Mapping Solutions
 - 🌱 I’m currently learning 3D modelling with freecad
 - 💞️ I’m looking to collaborate on AEM component projects
 - 📫 How to reach me a.bethke@bdcom.de
